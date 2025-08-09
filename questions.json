@@ -1,0 +1,17 @@
+[
+  {
+    "prompt": "Which of the following is the derivative of sin(x)?",
+    "options": ["cos(x)", "-cos(x)", "sin(x)", "-sin(x)"],
+    "answer": "cos(x)"
+  },
+  {
+    "prompt": "In 1492, which event marked the start of the Age of Exploration?",
+    "options": [
+      "The fall of Constantinople",
+      "Columbus's voyage to the Americas",
+      "The signing of the Magna Carta",
+      "The Protestant Reformation"
+    ],
+    "answer": "Columbus's voyage to the Americas"
+  }
+]
